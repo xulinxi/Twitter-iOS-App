@@ -28,7 +28,7 @@ Step 1:
 - [x] User can log in.
 - [x] User can log out.
 
-<img src='https://github.com/xulinxi/Twitter-iOS-App/blob/c7d4603923972efc3541c845bcc84026dd6fe793/Twitter-iOS-Step1.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/xulinxi/Twitter-iOS-App/blob/c7d4603923972efc3541c845bcc84026dd6fe793/Twitter-iOS-Step1.gif' width='25' alt='Video Walkthrough' />
 
 (The file is a little too big: here's a link for your browser just incase the gif image won't load.
 file:///private/var/folders/5b/d826y7053b16dtqrgwz5w4w00000gn/T/6a16b71031a45823a46bdc9c41f0faf6/Kapture%202021-03-05%20at%2012.21.22.gif )
