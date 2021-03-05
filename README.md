@@ -35,7 +35,7 @@ Step 2:
 - [x] User stays logged in across restarts.
 - [x] User can view tweets with the user profile picture, username, and tweet text.
 
-<img src='https://github.com/xulinxi/Twitter-iOS-App/blob/ba325bc3c07b7a6dcc2a7805bd590b9ff24065da/Twitter-iOS-Step2.gif' width='250' alt='Video Walkthrough' />
+<img src='https://github.com/xulinxi/Twitter-iOS-App/blob/a307bd8c75a7c9e244a1be199714446ce8e732e0/Twitter-iOS-Step2.gif' width='250' alt='Video Walkthrough' />
 
 Step 3: (bonus)
 - [x] User can pull to refresh. 
