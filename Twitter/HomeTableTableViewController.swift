@@ -24,7 +24,6 @@ class HomeTableTableViewController: UITableViewController {
         
         myRefreshControl.addTarget(self, action: #selector(loadTweets), for: .valueChanged)
         tableView.refreshControl = myRefreshControl
-        
         // When the view load, we call this function to loadTweet (to display it)
         loadTweets()
     }
@@ -53,10 +52,7 @@ class HomeTableTableViewController: UITableViewController {
             print("Could not retreive tweets! Oh no!")
         })
     }
-    
-    
-    
-    
+
     
     
     // Every time we load, we add in extra 20 tweets
