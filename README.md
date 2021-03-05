@@ -42,7 +42,7 @@ Step 3: (bonus)
 - [x] User can load past tweets infinitely. 
 
 
-<img src='https://github.com/xulinxi/Twitter-iOS-App/blob/a307bd8c75a7c9e244a1be199714446ce8e732e0/Twitter-iOS-Step3.gif' width='250' alt='Video Walkthrough-3' />
+<img src='https://github.com/xulinxi/Twitter-iOS-App/blob/a307bd8c75a7c9e244a1be199714446ce8e732e0/Twitter-iOS-Step3.gif' />
                                                                                                                                            
                                                                                                                                            
                                                                                                                                            
