@@ -30,15 +30,12 @@ Step 1:
 
 <img src='https://github.com/xulinxi/Twitter-iOS-App/blob/c7d4603923972efc3541c845bcc84026dd6fe793/Twitter-iOS-Step1.gif' width='250' alt='Video Walkthrough' />
 
-(The file is a little too big: here's a link for your browser just incase the gif image won't load.
-file:///private/var/folders/5b/d826y7053b16dtqrgwz5w4w00000gn/T/6a16b71031a45823a46bdc9c41f0faf6/Kapture%202021-03-05%20at%2012.21.22.gif )
-
 
 Step 2:
 - [x] User stays logged in across restarts.
 - [x] User can view tweets with the user profile picture, username, and tweet text.
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/xulinxi/Twitter-iOS-App/blob/ba325bc3c07b7a6dcc2a7805bd590b9ff24065da/Twitter-iOS-Step2.gif' width='250' alt='Video Walkthrough' />
 
 Step 3: (bonus)
 - [x] User can pull to refresh. 
