@@ -50,6 +50,8 @@ class HomeTableTableViewController: UITableViewController {
             
         }, failure: { (Error) in
             print("Could not retreive tweets! Oh no!")
+            print(Error.localizedDescription)
+
         })
     }
 
@@ -78,6 +80,7 @@ class HomeTableTableViewController: UITableViewController {
             
         }, failure: { (Error) in
             print("Could not retreive tweets! Oh no!")
+            print(Error.localizedDescription)
         })
     }
     

@@ -116,6 +116,9 @@
                                 <action selector="onLogout:" destination="zZC-zo-BCX" id="hrQ-ME-2qd"/>
                             </connections>
                         </barButtonItem>
+                        <barButtonItem key="rightBarButtonItem" title="Tweet" style="plain" id="Sbg-Sf-7To">
+                            <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </barButtonItem>
                     </navigationItem>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FQ3-9B-UVA" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
