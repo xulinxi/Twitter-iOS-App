@@ -1,15 +1,15 @@
 //
-//  HomeTableTableViewController.swift
+//  HomeTableViewController.swift
 //  Twitter
 //
-//  Created by Linxi Xu on 3/5/21.
+//  Created by Linxi Xu on 3/12/21.
 //  Copyright © 2021 Dan. All rights reserved.
 //
 
 import UIKit
 
-class HomeTableTableViewController: UITableViewController {
-    
+class HomeTableViewController: UITableViewController {
+
     // Store tweets/data in a local variable first
     // (Var is sth can be changed; let can't be changed)
     // An array od dictionaries
@@ -17,16 +17,26 @@ class HomeTableTableViewController: UITableViewController {
     var numberOfTweet: Int!
     
     let myRefreshControl = UIRefreshControl()
+    
+
         
     override func viewDidLoad() {
         super.viewDidLoad()
-        loadTweets()
+        //loadTweets()
         
         myRefreshControl.addTarget(self, action: #selector(loadTweets), for: .valueChanged)
         tableView.refreshControl = myRefreshControl
         // When the view load, we call this function to loadTweet (to display it)
+        //loadTweets()
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(true)
         loadTweets()
     }
+    
+    
+
     
     
     // Start a new function
@@ -55,6 +65,12 @@ class HomeTableTableViewController: UITableViewController {
         })
     }
 
+    
+    
+    
+    
+    
+    
     
     
     // Every time we load, we add in extra 20 tweets
@@ -131,5 +147,3 @@ class HomeTableTableViewController: UITableViewController {
     }
 
 }
-
-
