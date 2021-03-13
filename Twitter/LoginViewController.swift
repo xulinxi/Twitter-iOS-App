@@ -27,8 +27,6 @@ class LoginViewController: UIViewController {
         }
     }
     
-    
-    
 
     @IBAction func onLoginButtun(_ sender: Any) {
         
